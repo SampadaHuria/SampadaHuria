@@ -35,9 +35,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socket.io"alt="Socket.io" width="40" height="40"/>&nbsp;
-    ---
+    
 
-### :fire: My Stats :
+### 
     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SampadaHuria&show_icons=true&locale=en&layout=compact" alt="SampadaHuria" /></p>
 
