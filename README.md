@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Dev
+### - 🔭 I’m currently working on Web Dev
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Web Dev
 - 💬 Ask me about anything under my domain
