@@ -38,6 +38,6 @@
     ---
 
 ### :fire: My Stats :
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SampadaHuria&show_icons=true&locale=en&layout=compact" alt="SampadaHuria" /></p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SampadaHuria&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
