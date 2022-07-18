@@ -10,7 +10,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope: I’m a Computer Engineering undergraduate.
+- :telescope: I’m a Computer Engineering undergraduate exploring different projects.
 
 - :seedling: Exploring Data Structures and Algorithms.
 
